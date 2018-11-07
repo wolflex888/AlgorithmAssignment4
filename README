@@ -1,0 +1,14 @@
+The algorithm is written in python. 
+The program can be run by the followin command:
+
+    python jlu345_HW4_program.py <input_file> <algorithm choice (DC, DP)> <output_file>
+
+The folder structure is listed in the following way:
+
+--root
+    data
+        data files
+    output
+        output files
+    jlu345_HW4_program.py
+    README
